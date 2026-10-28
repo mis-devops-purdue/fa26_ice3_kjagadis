@@ -4,4 +4,5 @@ ICE 3 Pair Programming Exercise for MIS 58710.
 
 ## Team Members
 
+- **Ying Zhou：Favrite song：xiaoxingxing
 - **Arya Shukla**: Favorite song: Suncity
